@@ -1,2 +1,5 @@
 # Pete-Forest
-Purpose: Web page for promo.
+Purpose: A web page for Pete's promo.
+tech used HTML, CSS
+
+
